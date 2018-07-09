@@ -1,2 +1,2 @@
 var vacations = ['Hawaii', 'Thailand', 'Belize']
-var name = 'Mark'
+var name = 'Zach'
